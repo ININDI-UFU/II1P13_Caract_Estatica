@@ -12,7 +12,7 @@
 
 <item itemtype="Rail" CircId="Rail-7" mainComp="false" ShowProp="Voltage" Show_id="false" Show_Val="true" Pos="-36,-84" rotation="90" hflip="1" vflip="1" label="Rail-7" idLabPos="-5,-10" labelrot="-90" valLabPos="-18,4" valLabRot="-90" Voltage="5 V" />
 
-<item itemtype="SerialPort" CircId="SerialPort-9" mainComp="false" Show_id="false" Show_Val="false" Pos="-192,-64" rotation="0" hflip="1" vflip="1" label="SerialPort-9" idLabPos="-20,-32" labelrot="0" valLabPos="-16,20" valLabRot="0" Baudrate="9600 _Bauds" DataBits="8 _Bits" StopBits="1 _Bits" SerialMon="false" />
+<item itemtype="SerialPort" CircId="SerialPort-9" mainComp="false" Show_id="false" Show_Val="false" Pos="-192,-64" rotation="0" hflip="1" vflip="1" label="SerialPort-9" idLabPos="-20,-32" labelrot="0" valLabPos="-16,20" valLabRot="0" Port="COM11" Baudrate="9600 _Bauds" DataBits="8 _Bits" StopBits="1 _Bits" SerialMon="false" />
 
 <item itemtype="Node" CircId="Node-8" mainComp="false" Pos="-36,-20" />
 
